@@ -1,7 +1,6 @@
 # Site settings
 title:          年轮
 description:    "一生热爱不遗憾"
-baseurl:        "/tale"
 url:            "https://baoyudu.github.io/"
 
 # Google Analytics
